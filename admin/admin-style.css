@@ -1,0 +1,71 @@
+body {
+  color: #212426;
+  background-color: #000000cf;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif
+}
+
+
+.bg-light {
+  background-color: #F2C405 !important;
+}
+
+.navbar-light .navbar-brand {
+  color: #272B2E;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.navbar-light:hover .navbar-brand:hover {
+  color: #A88804;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #272B2E;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+  color: #A88804;
+}
+
+.navbar {
+  height: 65px;
+}
+
+.navbar-nav {
+  position: absolute;
+  right: 0;
+}
+
+.card {
+  top: 50px;
+  padding-top: 50px;
+  width: 100%;
+  padding-left: 100px;
+  background-color: #F2C405;
+  height: 500px;
+}
+
+form.prj-form {
+  position: absolute;
+  left: 35%;
+  margin-bottom: 50px;
+}
+
+textarea {
+  margin-top: 5px;
+  color: #403e3e4a;
+}
+
+#under-txt {
+  margin-top: 5px;
+}
+
+.blog-area {
+  position: relative;
+  left: 27%;
+  align-items: center;
+  bottom: 104%;
+}
